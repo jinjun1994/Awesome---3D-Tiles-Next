@@ -35,3 +35,6 @@
 
 **Projects**
   * [minimal-pointcloud-gltf](https://github.com/wallabyway/minimal-pointcloud-gltf). A proposal for a standard point cloud representation in glTF and 3D Tiles Next
+
+**Tools**
+  * [CesiumGS/cdb-to-3dtiles: Convert CDB to 3D Tiles](https://github.com/CesiumGS/cdb-to-3dtiles)
